@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Copy of DriveInsight PRO Web",
+  "description": "A simulation of the DriveInsight PRO mobile app. It analyzes ride-share screenshots (Uber/99) using Gemini Vision to calculate real-time profitability metrics based on fuel costs per minute.",
+  "requestFramePermissions": []
+}
